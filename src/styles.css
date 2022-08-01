@@ -1,0 +1,55 @@
+.btn,
+.jumbotron,
+.nav :hover {
+	border-radius: 0px;
+}
+
+body {
+	background-color: #bedcfa;
+	background-image: url('https://www.transparenttextures.com/patterns/climpek.png');
+	/* background: #bedcfa; */
+	/* background-image: url(http://www.transparenttextures.com/patterns/back-pattern.png); */
+	/* background-color: #bedcfa; */
+	/* background-image: url(http://www.transparenttextures.com/patterns/back-pattern.png); */
+}
+/* footer {
+	position: absolute;
+	bottom: 0px;
+	left: 0px;
+	right: 0px;
+} */
+#heading {
+	color: rgb(23, 122, 122);
+}
+
+.form-margin {
+	margin-top: 0px;
+}
+.nav-item-size {
+	font-size: larger;
+}
+.nav-colour {
+	background-color: #b088f9;
+}
+.card-colour {
+	background-color: #364f6b;
+}
+.price {
+	background-color: #3fc1c9;
+}
+.navBrand-font {
+	font-family: 'Montserrat', sans-serif;
+}
+.admin-color {
+	background-color: #98acf8;
+}
+.admin-card {
+	margin-top: 1.2rem;
+	margin-bottom: 1.2rem;
+}
+.admin-card-padding {
+	padding: 1.2rem;
+}
+.bottom-padding {
+	margin-bottom: 1.1rem;
+}
