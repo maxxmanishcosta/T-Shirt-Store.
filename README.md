@@ -50,3 +50,8 @@ Sign-In
 Product
 
 ![App Screenshot](https://user-images.githubusercontent.com/99782525/182293002-92cd34ca-b36b-4c13-b465-616705defd7f.png)
+
+ER Diagram
+
+![db_diagram](https://user-images.githubusercontent.com/99782525/182295878-0cd5e43b-cf0f-4118-af1c-ac0cb97e3b40.jpg)
+
